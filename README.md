@@ -14,5 +14,5 @@ This is an example for how to create a simple meme
 
 ## Authors
 * Feel free to follow me ([cli946](https://github.com))
-* Feel free to watch this repository
+* Feel free to watch this ([repository](https://github.com/cli946/stats220))
 * You can even ⭐ the repo if you want
