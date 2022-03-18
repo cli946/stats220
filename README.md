@@ -12,7 +12,12 @@ This is an example for how to create a simple meme
 1. Install R studio is great, available for macOS 10.15+, Windows 10/11, and Ubuntu 18+/Debian 10+ ([download](https://www.rstudio.com/products/rstudio/download/))
 2. Install the packages -- *magick*
 
+```r
+install.packages(magick)
+```
+
 ## Authors
 * Feel free to follow me ([cli946](https://github.com))
 * Feel free to watch this ([repository](https://github.com/cli946/stats220))
 * You can even ⭐ the repo if you want
+
